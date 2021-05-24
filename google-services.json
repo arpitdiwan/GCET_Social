@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "719085384653",
+    "firebase_url": "https://gcet-social-a9af0.firebaseio.com",
+    "project_id": "gcet-social-a9af0",
+    "storage_bucket": "gcet-social-a9af0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719085384653:android:102d90c37bebd0a9",
+        "android_client_info": {
+          "package_name": "com.red.gcetsocial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "719085384653-g291kir83iokk9fi6p9nu4v4j6icpnkf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.red.gcetsocial",
+            "certificate_hash": "7d8f1326417407b4467a14496165350d326122d3"
+          }
+        },
+        {
+          "client_id": "719085384653-0kqvp7dboicg3m6r6l24nmbnh63un3o7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJZpuVwSd0e3-DXHLGN0GP3_jTJKGNLs4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "719085384653-0kqvp7dboicg3m6r6l24nmbnh63un3o7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
